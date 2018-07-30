@@ -2,7 +2,7 @@
   "name": "nativescript-ios-uuid",
   "version": "0.0.1",
   "description": "A NativeScript plugin for iOS that allows you to get a UUID (Universal Unique Identifier) for a device.",
-  "main": "index.js",
+  "main": "index",
   "nativescript": {
     "id": "org.nativescript.iosuuid",
     "platforms": {
