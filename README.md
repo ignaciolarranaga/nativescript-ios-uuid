@@ -4,7 +4,7 @@ This is a plugin for iOS that allows you to get a UUID (Universal Unique Identif
 
 Inspired from [`StackOverflow: How to preserve identifierForVendor in ios after uninstalling ios app on device?`] (http://stackoverflow.com/questions/21878560/how-to-preserve-identifierforvendor-in-ios-after-uninstalling-ios-app-on-device).
 
-Uses [`SSKeychain Cocoa Pod`](https://cocoapods.org/pods/SSKeychain).
+Uses [`SAMKeychain Cocoa Pod`](https://cocoapods.org/pods/SAMKeychain).
 
 ## Installation
 `tns plugin add nativescript-ios-uuid`
